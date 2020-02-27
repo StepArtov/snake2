@@ -1,0 +1,6 @@
+D:\gitcode\snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\gitcode\snake\Snake\Snake\bin\Debug\Snake.exe
+D:\gitcode\snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\gitcode\snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\gitcode\snake\Snake\Snake\obj\Debug\Snake.exe
+D:\gitcode\snake\Snake\Snake\obj\Debug\Snake.pdb
